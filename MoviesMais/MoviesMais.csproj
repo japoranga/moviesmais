@@ -153,6 +153,7 @@
     <Compile Include="Models\Contato.cs" />
     <Compile Include="Models\DadosSensiveis.cs" />
     <Compile Include="Models\Filme.cs" />
+    <Compile Include="Models\MysqlConnection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

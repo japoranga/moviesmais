@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesMais", "MoviesMais\MoviesMais.csproj", "{880D21F2-D2F6-4851-8205-D54EA6335F52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesMais.RegraDeNegocio", "MoviesMais.RegraDeNegocio\MoviesMais.RegraDeNegocio.csproj", "{3A0800D4-42FE-43F1-8349-BCA14A3C9B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesMais.AcessoaoBancodeDados", "MoviesMais.AcessoaoBancodeDados\MoviesMais.AcessoaoBancodeDados.csproj", "{EBE87CB8-0049-4FCD-A3EB-2045655F97BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{880D21F2-D2F6-4851-8205-D54EA6335F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{880D21F2-D2F6-4851-8205-D54EA6335F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{880D21F2-D2F6-4851-8205-D54EA6335F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0800D4-42FE-43F1-8349-BCA14A3C9B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0800D4-42FE-43F1-8349-BCA14A3C9B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0800D4-42FE-43F1-8349-BCA14A3C9B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0800D4-42FE-43F1-8349-BCA14A3C9B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE87CB8-0049-4FCD-A3EB-2045655F97BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE87CB8-0049-4FCD-A3EB-2045655F97BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE87CB8-0049-4FCD-A3EB-2045655F97BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE87CB8-0049-4FCD-A3EB-2045655F97BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
